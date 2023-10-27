@@ -1,3 +1,5 @@
+``⚠️`` Installing any script could get your account banned.
+
 # Modify-Geoguessr-street-view-directional-arrows
 Cosmetic upgrade to white arrows on street view.
 
